@@ -24,3 +24,7 @@ dependencies:
   - webform
   - webform_ui
   - google_translator
+  - openai
+  - eca
+  - ai_interpolator
+  - augmentor
